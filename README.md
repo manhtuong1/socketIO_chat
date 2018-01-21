@@ -39,10 +39,10 @@ MongoDB
     1). Go to ("http://socketiochatapp.tk/user/signup") link and signup
     2). Login @ ("http://socketiochatapp.tk/user/login")
     3). Chat with group or one-to-one.
-```## Version
+```
+## Version
 This is first version 1.
 ## My other Projects & My portfolio
-
 running mongodb:
 ```
     1). Open Terminal and change directory to where mongodb is installed in bin folder.
@@ -59,7 +59,15 @@ running mongodb:
   running project:
 ```
   Step 1: Install all dependencies by : npm install and run node app.js
+  Step 2: Sign up @ http://localhost:5000/user/signup  Step 1: Install all dependencies by : npm install and run node app.js
+62
   Step 2: Sign up @ http://localhost:5000/user/signup
+63
+  Step 3: Now you're good to go.
+64
+  Step 4: Now Login  @http://localhost:5000/user/login
+65
+  Step 5: Now Chat with your friends real fast powered by socket.IO and Nodejs.
   Step 3: Now you're good to go.
   Step 4: Now Login  @http://localhost:5000/user/login
   Step 5: Now Chat with your friends real fast powered by socket.IO and Nodejs.
