@@ -40,46 +40,10 @@ MongoDB
     2). Login @ ("http://socketiochatapp.tk/user/login")
     3). Chat with group or one-to-one.
 ```## Version
-79
-​
-80
 This is first version 1.
-81
-​
-82
 ## My other Projects & My portfolio
-83
-[Visit My GitHub Account](https://github.com/vithalreddy "My GitHub Account")
-84
-​
-85
-[MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project ](https://github.com/vithalreddy/mean-shop-with-rest-api "MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project")
-86
-​
-87
-​
-88
-[English Premier League Club Matches AngularJS SPA App](https://vithalreddy.github.io/angularjs-epl-footaball-spa-app/#/ "English Premier League Club Matches AngularJS SPA App")
-89
-​
-90
-[Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP](https://vithalreddy.github.io/angularjs-game-of-thrones-anapioficeandfire-spa-app/# "Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP")
-91
-​
-92
-​
-93
-## Contributors
-94
-​
-95
-[Vithalreddy](https://github.com/vithalreddy "My GitHub Account") - [Visit My Blog](https://stackfame.com "Stack FAME")
 
-## Running
-
-(Note: these instructions are for Ubuntu Linux based OS. Assuming nodejs, npm and mongodb is already installed).
-
-  running mongodb:
+running mongodb:
 ```
     1). Open Terminal and change directory to where mongodb is installed in bin folder.
     2). user@linux: ~/path/to/mongodb/bin $ ./mongod 
