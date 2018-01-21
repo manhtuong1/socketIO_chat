@@ -60,13 +60,9 @@ running mongodb:
 ```
   Step 1: Install all dependencies by : npm install and run node app.js
   Step 2: Sign up @ http://localhost:5000/user/signup  Step 1: Install all dependencies by : npm install and run node app.js
-62
   Step 2: Sign up @ http://localhost:5000/user/signup
-63
   Step 3: Now you're good to go.
-64
   Step 4: Now Login  @http://localhost:5000/user/login
-65
   Step 5: Now Chat with your friends real fast powered by socket.IO and Nodejs.
   Step 3: Now you're good to go.
   Step 4: Now Login  @http://localhost:5000/user/login
