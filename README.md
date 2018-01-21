@@ -39,7 +39,41 @@ MongoDB
     1). Go to ("http://socketiochatapp.tk/user/signup") link and signup
     2). Login @ ("http://socketiochatapp.tk/user/login")
     3). Chat with group or one-to-one.
-```
+```## Version
+79
+​
+80
+This is first version 1.
+81
+​
+82
+## My other Projects & My portfolio
+83
+[Visit My GitHub Account](https://github.com/vithalreddy "My GitHub Account")
+84
+​
+85
+[MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project ](https://github.com/vithalreddy/mean-shop-with-rest-api "MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project")
+86
+​
+87
+​
+88
+[English Premier League Club Matches AngularJS SPA App](https://vithalreddy.github.io/angularjs-epl-footaball-spa-app/#/ "English Premier League Club Matches AngularJS SPA App")
+89
+​
+90
+[Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP](https://vithalreddy.github.io/angularjs-game-of-thrones-anapioficeandfire-spa-app/# "Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP")
+91
+​
+92
+​
+93
+## Contributors
+94
+​
+95
+[Vithalreddy](https://github.com/vithalreddy "My GitHub Account") - [Visit My Blog](https://stackfame.com "Stack FAME")
 
 ## Running
 
@@ -73,23 +107,5 @@ OS : Linux Mint
 
 API Tool : Postman
 
-Editor : Atom.
+Editor : vs Code
 
-## Version
-
-This is first version 1.
-
-## My other Projects & My portfolio
-[Visit My GitHub Account](https://github.com/vithalreddy "My GitHub Account")
-
-[MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project ](https://github.com/vithalreddy/mean-shop-with-rest-api "MEAN SHOP | A MEAN stack based Ecommerce backend and Frontend Project")
-
-
-[English Premier League Club Matches AngularJS SPA App](https://vithalreddy.github.io/angularjs-epl-footaball-spa-app/#/ "English Premier League Club Matches AngularJS SPA App")
-
-[Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP](https://vithalreddy.github.io/angularjs-game-of-thrones-anapioficeandfire-spa-app/# "Game Of Thrones - All the data from the universe of Ice And Fire you've ever wanted. | An AngularJS SPA APP")
-
-
-## Contributors
-
-[Vithalreddy](https://github.com/vithalreddy "My GitHub Account") - [Visit My Blog](https://stackfame.com "Stack FAME")
